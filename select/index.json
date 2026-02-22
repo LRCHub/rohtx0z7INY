@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Happy Birthday",
+  "base_artist": "Yosui Inoue",
+  "createdAt": "2026-02-22T03:58:15.862772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ratchet Happy Birthday",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_Ratchet_Happy_Birthday_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happy Birthday Blues",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/02_Happy_Birthday_Blues_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Happy Birthday",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/03_Happy_Birthday_Stevie_Wonder.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Happy Birthday",
+      "artist": "Altered Images",
+      "has_synced": true,
+      "path": "select/04_Happy_Birthday_Altered_Images.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Happy Birthday, Mr. Christian",
+      "artist": "Apollonia 6",
+      "has_synced": false,
+      "path": "select/05_Happy_Birthday,_Mr._Christian_Apollonia_6.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Happy Birthday Song",
+      "artist": "Andrew Bird",
+      "has_synced": true,
+      "path": "select/06_The_Happy_Birthday_Song_Andrew_Bird.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Happy Birthday (feat. John Legend)",
+      "artist": "Kygo feat. John Legend",
+      "has_synced": true,
+      "path": "select/07_Happy_Birthday_(feat._John_Legend)_Kygo_feat._John_Legend.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Happy Birthday",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/08_Happy_Birthday_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Happy Birthday Dark Star",
+      "artist": "Cold Cave",
+      "has_synced": false,
+      "path": "select/09_Happy_Birthday_Dark_Star_Cold_Cave.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lights & Music (Boys Noize Happy Birthday Remix)",
+      "artist": "Cut Copy",
+      "has_synced": true,
+      "path": "select/10_Lights_&_Music_(Boys_Noize_Happy_Birthday_Remix)_Cut_Copy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Happy Birthday Jubilee",
+      "artist": "Perry Farrell",
+      "has_synced": false,
+      "path": "select/11_Happy_Birthday_Jubilee_Perry_Farrell.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Happy Birthday Jubilee - Reprise",
+      "artist": "Perry Farrell",
+      "has_synced": false,
+      "path": "select/12_Happy_Birthday_Jubilee_-_Reprise_Perry_Farrell.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Happy Birthday Mr. President",
+      "artist": "Marilyn Monroe",
+      "has_synced": true,
+      "path": "select/13_Happy_Birthday_Mr._President_Marilyn_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Happy Birthday, Mr President Kennedy",
+      "artist": "Marilyn Monroe",
+      "has_synced": false,
+      "path": "select/14_Happy_Birthday,_Mr_President_Kennedy_Marilyn_Monroe.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Happy Birthday Karen",
+      "artist": "Andy Partridge",
+      "has_synced": false,
+      "path": "select/15_Happy_Birthday_Karen_Andy_Partridge.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Happy Birthday, Lisa",
+      "artist": "The Simpsons",
+      "has_synced": false,
+      "path": "select/16_Happy_Birthday,_Lisa_The_Simpsons.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happy Birthday",
+      "artist": "井上 陽水",
+      "has_synced": false,
+      "path": "select/pl_01_Happy_Birthday_井上_陽水.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Happy Birthday - Remastered 2018",
+      "artist": "井上 陽水",
+      "has_synced": false,
+      "path": "select/pl_02_Happy_Birthday_-_Remastered_2018_井上_陽水.txt"
+    }
+  ]
+}
